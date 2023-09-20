@@ -2,6 +2,8 @@
 
 En este tema se verán los ***conceptos básicos***
 
+![Lenguajes de programación](assets/3.jpg)
+
 Se verán los siguientes apartados:
 
 ---
@@ -21,6 +23,7 @@ void main (String args[]){
   println('hola');
 }
 ```
+![Lenguajes de programación](assets/4.png)
 
 > **aviso**: Esto debe de esbribirse en un terminal.
 >
@@ -28,3 +31,5 @@ void main (String args[]){
 > ```javascript
 > var numero = 5
 > ```
+
+![Lenguajes de programación](assets/2.png)
